@@ -95,6 +95,26 @@
 			"personastateflags": 0,
 			"loccountrycode": "BR",
 			"locstatecode": "15"
+		},
+		{
+			"steamid": "76561198070536226",
+			"communityvisibilitystate": 3,
+			"profilestate": 1,
+			"personaname": "TH-1",
+			"commentpermission": 1,
+			"profileurl": "https://steamcommunity.com/id/trustTH-1/",
+			"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3c/3cdf6b5b2a80b45bf674a74c905cc3cef21c8b91.jpg",
+			"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3c/3cdf6b5b2a80b45bf674a74c905cc3cef21c8b91_medium.jpg",
+			"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3c/3cdf6b5b2a80b45bf674a74c905cc3cef21c8b91_full.jpg",
+			"avatarhash": "3cdf6b5b2a80b45bf674a74c905cc3cef21c8b91",
+			"lastlogoff": 1627957410,
+			"personastate": 1,
+			"realname": "Bruno Damacena",
+			"primaryclanid": "103582791429521408",
+			"timecreated": 1346272468,
+			"personastateflags": 0,
+			"loccountrycode": "BR",
+			"locstatecode": "15"
 		}
 	]
 }

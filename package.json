@@ -1,0 +1,27 @@
+{
+  "name": "cefet-web-geiser",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Um monstruario de algumas pessoas que ficam fritando seus PCs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoDamacena/cefet-web-geiser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoDamacena/cefet-web-geiser/issues"
+  },
+  "homepage": "https://github.com/BrunoDamacena/cefet-web-geiser#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.2"
+  }
+}

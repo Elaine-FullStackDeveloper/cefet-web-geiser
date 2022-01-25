@@ -3,9 +3,11 @@
 Um mostruário de algumas pessoas que ficam fritando seus PCs. Há uma página que mostra essas pessoas e outra com detalhes sobre o que elas andam fazendo com seus computadores.
 
 
-## Atividade
+## Atividade da Disciplina de Programação Web - CEFET/MG
 
 Você deve criar duas páginas dinâmicas usando Node.js e Express.js.
+
+https://github.com/fegemo/cefet-web-geiser
 
 
 ### Exercício 0: Configuração do Projeto
